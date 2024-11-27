@@ -6,9 +6,9 @@ import streamlit as st
 # Definición de la función para mostrar la información del alumno
 def mostrar_informacion_alumno():
     with st.container(border=True):
-        st.markdown('**Legajo:** 55.555')
-        st.markdown('**Nombre:** Juan Pérez')
-        st.markdown('**Comisión:** C1')
+        st.markdown('**Legajo:** 59.158')
+        st.markdown('**Nombre:** Luciano Corral')
+        st.markdown('**Comisión:** C7')
 
 # Definición de la función para generar el gráfico
 def hacer_grafico(d, p):
